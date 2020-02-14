@@ -37,10 +37,10 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "点我",
+        turn_on: "别点我",
         play: "辣个男银",
         bannar_coming: "ta lai le",
-        balloons_flying: "好像少点东西",
+        balloons_flying: "纯嘴吹的",
         cake_fadein: "芋泥夹心安排上",
         light_candle: "十八岁的火焰",
         wish_message: "生日快乐",
