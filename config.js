@@ -21,6 +21,7 @@ var config = {
         "Always",
         "Old Eddie",
         "真爱永恒",
+        "未完待续~",
     ],
     imgs: {
         "面朝大海": "./imgs/IMG_8810.JPG",
